@@ -10,6 +10,7 @@
 }
 
 .navegacion-principal {
+    
     a {
         color: v.$blanco;
         font-size: 2rem;
@@ -20,9 +21,3 @@
     }
 }
 
-.prueba {
-    @include m.heading;
-}
-.texto {
-    @include m.heading;
-}
